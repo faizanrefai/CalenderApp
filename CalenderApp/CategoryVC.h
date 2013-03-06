@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CategoryVC.h
 //  CalenderApp
 //
 //  Created by i Tech Coders Pvt Ltd. on 18/02/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CategoryVC : UITableViewController
 
 @end
